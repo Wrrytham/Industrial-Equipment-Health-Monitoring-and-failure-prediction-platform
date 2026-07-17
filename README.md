@@ -266,7 +266,7 @@ Contributions are welcome! Here's how to get involved:
    ```
 6. Open a **Pull Request** against the `main` branch of the original repository.
 
-Please ensure your code follows the existing style and conventions used in the project.
+Please ensure your code follows the  existing style and conventions used in the project.
 
 ---
 
